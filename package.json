@@ -1,0 +1,15 @@
+{
+  "name": "@ucd-lib/cork-app-load",
+  "version": "0.0.1",
+  "description": "Polyfill and polymer app build loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jrmerz@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/polyfill": "^7.0.0-beta.46",
+    "@webcomponents/webcomponentsjs": "^2.0.0"
+  }
+}
