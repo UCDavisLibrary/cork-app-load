@@ -9,7 +9,7 @@ document.open();
 
 if( !classSupport() ) {
   console.log('No class support, adding babel polyfills. using ie compatibility build');
-  document.write('<script src="/loader/polyfills/polyfill.min.js"></script>');
+  document.write('<script src="/loader/polyfills/babel-polyfill.js"></script>');
 }
 
 document.write('<script src="/loader/polyfills/webcomponents-loader.js" ></script>');
