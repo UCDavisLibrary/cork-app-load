@@ -1,6 +1,6 @@
 {
   "name": "@ucd-lib/cork-app-load",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Polyfill and polymer app build loader",
   "main": "index.js",
   "scripts": {
